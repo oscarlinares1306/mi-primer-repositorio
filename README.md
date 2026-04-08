@@ -16,3 +16,6 @@ Url
 
 ###Autor
 Oscar Linares Rugeles###
+
+###Status
+Finalizado en la version 1.0
